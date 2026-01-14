@@ -45,7 +45,7 @@ Before running, update the script with your router’s:
 
 ## Lab 2 – Configure Loopback Interface with Netmiko
 
-**File:** `python/netmiko/lab2_config_loopback.py`
+*File:* `python/netmiko/lab2_config_loopback.py`
 
 **Goal**  
 Push configuration to create `Loopback100` with IP `1.1.1.1 255.255.255.255` using a Python script.
