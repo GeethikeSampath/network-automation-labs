@@ -34,7 +34,7 @@ Connect to a Cisco router over SSH and run `show ip interface brief`, printing t
 **How to run**
 
 ```bash
-python3 python/netmiko/lab1_show_ip_int_brief.
+python3 python/netmiko/lab1_show_ip_int_brief
 
 Before running, update the script with your router’s:
 
