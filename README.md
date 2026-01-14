@@ -19,7 +19,7 @@ Ensure your Ubuntu VM can reach the router via IP and SSH (same subnet, SSH enab
 
 ## Lab 1 – Show IP Interface Brief with Netmiko
 
-File: `python/netmiko/lab1_show_ip_int_brief.py`
+File `python/netmiko/lab1_show_ip_int_brief.py`
 
 **Goal**  
 Connect to a Cisco router over SSH and run `show ip interface brief`, printing the output to the terminal.
